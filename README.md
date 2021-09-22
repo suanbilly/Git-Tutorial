@@ -34,3 +34,8 @@ def add(a, b)
 강조는 다음과 같이 할 수 있습니다.
 
 **강조** ~~취소선~~
+
+
+Git에서 소개글(README.md)파일 작성하기 유튜브 
+
+[유튜브주소](https://www.youtube.com/watch?v=MFJIOqxK6k8)
