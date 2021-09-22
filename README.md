@@ -3,6 +3,7 @@
 ### Git-Tutorial
 
 소스코드 블록은 다음과 같이 작성할 수 있습니다.
+
 ```python
 def add(a, b)
     return a + b
@@ -13,6 +14,7 @@ def add(a, b)
 [네이버바로가기](https://naver.com)
 
 순서없는 목록은 다음과 같이 작성할 수 있습니다.
+
 *깃 튜토리얼
   * 깃 Clone
   * 깃 commit
